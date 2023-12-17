@@ -5,7 +5,7 @@ import time
 import os,sys
 import random, socket, threading
 
-pasw = "RonDanielDDosToolV2.1"
+pasw = "pengenngewe"
 
 for i in range(3):
     pwd = input(" Password : ")
